@@ -56,7 +56,7 @@ python main.py --method fedmas --free_u=3 --client_number 6 --pre_trained_tv --p
 ```
 
 
-###Acknowledgement
+### Acknowledgement
 Code design inspired by [FedML](https://github.com/FedML-AI/FedML) and [FedAlign](https://github.com/mmendiet/FedAlign).
 
 
