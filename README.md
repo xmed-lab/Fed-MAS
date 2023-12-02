@@ -62,5 +62,17 @@ Code design inspired by [FedML](https://github.com/FedML-AI/FedML) and [FedAlign
 
 Citation
 ```
-
+@InProceedings{10.1007/978-3-031-47401-9_32,
+author="Elbatel, Marawan
+and Wang, Hualiang
+and Marti, Robert
+and Fu, Huazhu
+and Li, Xiaomeng",
+title="Federated Model Aggregation via Self-supervised Priors for Highly Imbalanced Medical Image Classification",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2023 Workshops ",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="334--346"
+}
 ```
